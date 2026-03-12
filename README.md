@@ -19,5 +19,5 @@ As we can see on first picture, programmer left `12h` bytes in stack buffer for 
 
 We want to have not `0` in `[bp-02]` to get `Access granted` - pic 2 `line 6`.
 
-`12h` is `18d`, we want not `0` in `[bp-02]` so it is obvious we just need to enter `symbols` to crack the program.
+`12h` is `18d`, we want not `0` in `[bp-02]` so it is obvious we just need to enter `17` `symbols` to crack the program.
  
