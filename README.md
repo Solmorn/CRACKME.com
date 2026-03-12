@@ -2,7 +2,7 @@
 
 ## Main goal
 
-We have the `.com` binary file of the program (which original file we does not have) that asks for a password and prints `Access denied` or `Access granted`, depends on what you entered.
+We have the `.com` binary file of the program (we does not have `.com` file) that asks for a password and prints `Access denied` or `Access granted`, depends on what you entered. 
 
 Using the buffer-overflow we need to `crack` the program making it print `Access granted`.
 
